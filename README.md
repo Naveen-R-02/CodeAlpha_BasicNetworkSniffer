@@ -19,8 +19,7 @@ A Python-based network sniffer developed for the CodeAlpha Cyber Security Intern
 
 CodeAlpha_BasicNetworkSniffer/
 │
-├── logs/
-├── screenshots/
+├── logs/screenshots
 ├── sniffer.py
 ├── requirements.txt
 └── README.md
